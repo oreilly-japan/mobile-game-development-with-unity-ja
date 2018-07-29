@@ -38,13 +38,13 @@
 
 * Unity 2018.2.0f2
 * Android SDK API level 25
-* Xcode X.X.X
+* Xcode 9.4.1
 
 #### ハードウェア（括弧内はOSのバージョン）
 
 * Galaxy S6 Edge (Android 7.0)
 * Galaxy S9 Edge (Android 8.0)
-* iPhone XXXX (iOS XX.X.X)
+* iPhone SE (iOS 11.4.1)
 
 ## 正誤表
 
